@@ -40,4 +40,5 @@ There are two types of result:
 - we don't care about the side cubes looking, it should just be the same -- `'result': 'same'`
 - we wan't specific directions -- `'result': [0, 0, 0, 0]` (all cubes face us)
 
-
+## Usage
+After you insert all data just run it as `python cube.py`

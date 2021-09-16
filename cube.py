@@ -6,7 +6,7 @@ puzzle = {
         [0, 2],
         [0, 1, 2, 3]
     ],
-    'mod': 4,
+    'mod': 4, # nevermind this field, for future
     'result': 'same'
 }
 

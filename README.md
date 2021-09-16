@@ -1,5 +1,6 @@
 # Genshin-Puzzle-Solver
 Script solves cube puzzles from Inazuma. Notice that it only solves now common puzzles.
+Algorithm is based on BFS with caching. Script finds the shortest possible solution.
 
 Scripts needs initial puzzle data from you, such as current state, what happen if you interact with the cube and desired result.
 There is a `puzzle` dictionary that has presets you can change.
